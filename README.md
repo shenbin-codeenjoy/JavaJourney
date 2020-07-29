@@ -1,2 +1,5 @@
-# JavaJourney
-【Java 学习指南 &amp; 进阶之旅】 一份涵盖大多数 Java 程序员所需要掌握的核心技术
+<p align="center">
+    <a href="https://github.com/shenbin-codeenjoy/JavaJourney" target="_blank" rel="noopener noreferrer">
+        <img src="https://codeenjoy-1300139518.cos.ap-shanghai.myqcloud.com/code-jouyney/logo/java-logo.png" alt="logo" width="100px">
+    </a>
+</p>
